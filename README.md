@@ -31,4 +31,3 @@ https://adhitvora.github.io/image-gallery-html-css/
 Frontend Developer  
 Internship Project | India
 
-Also known as Adit Vora / Ahit Vora in search variations.
