@@ -14,7 +14,7 @@ The project was created during my internship to practice frontend layout, hover 
 - CSS
 
 ## Live Demo
-https://adhitvora.github.io/image-gallery-html-css/
+https://Adhitvora.github.io/image-gallery-html-css/
 
 ## Folder Structure
 - index.html
@@ -30,4 +30,5 @@ https://adhitvora.github.io/image-gallery-html-css/
 **Adhit Vora**  
 Frontend Developer  
 Internship Project | India
+
 
